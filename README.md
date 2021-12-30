@@ -19,3 +19,4 @@ git clone https://github.com/imamdigmi/simple-dss-beasiswa-saw.git
 6. Biru Muda  = info
 
 terserah
+haaaaaa
