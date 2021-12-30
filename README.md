@@ -18,4 +18,3 @@ git clone https://github.com/imamdigmi/simple-dss-beasiswa-saw.git
 5. Putih      = default
 6. Biru Muda  = info
 
-terserah
